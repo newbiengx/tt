@@ -1,1 +1,8 @@
 i use rebase to the second commit, and what will it look like?
+Hello world!
+
+
+i
+
+
+
